@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+#szöveg{
+    color: gray;
+}
+#button{
+    background-color: aquamarine;
+    color: red;
+}
